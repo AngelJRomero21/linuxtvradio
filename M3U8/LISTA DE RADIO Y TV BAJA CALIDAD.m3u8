@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,LINUXCLICKFM
 http://bit.ly/linuxclickfm
-#EXTINF:-1,LINUXCLICKTV
+#EXTINF:-1,LINUXCLICKTV (Mantenimiento)
 https://cromstudioiptv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ajtech_21
-#EXTINF:-1,Linux Y Seguridad
+#EXTINF:-1,Linux Y Seguridad (Canal Caido)
 https://cromstudioiptv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/linuxyseguridad&quality=worst
 #EXTINF:-1,S4vitar
 https://cromstudioiptv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/s4vitaar&quality=360p
