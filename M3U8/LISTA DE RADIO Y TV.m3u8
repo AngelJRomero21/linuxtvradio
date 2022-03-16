@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,LINUXCLICKFM
+#EXTINF:-1 tvg-name="LINUXCLICKFM" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgxUlQHZzGdxptC4M3UiKIQ8uqzxGh153e4mKuHNajkK3hKxPSwNGyhQUsd1Pltsc2h-0LJVZGqZD2Q6NaIU416BdjaVN3ZeAU2OtJV1FXS0gNiiaWkTRDb5tDT98yaLmAIPYsbvxtPuNWvBowYNHMzJAUta34at_R9wQJ8OfL7NCp1X8Z9-bWgdQSV=w400-h225" group-title="RADIO",LINUXCLICKFM
 http://bit.ly/linuxclickfm
-#EXTINF:-1,LINUXCLICKTV
-https://cromstudioiptv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ajtech_21 (Mantenimiento)
-#EXTINF:-1,Linux Y Seguridad  (Canal Caido)
+#EXTINF:-1 tvg-name="LINUXCLICKTV-GUIA HD (MANTENIMIENTO)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgxUlQHZzGdxptC4M3UiKIQ8uqzxGh153e4mKuHNajkK3hKxPSwNGyhQUsd1Pltsc2h-0LJVZGqZD2Q6NaIU416BdjaVN3ZeAU2OtJV1FXS0gNiiaWkTRDb5tDT98yaLmAIPYsbvxtPuNWvBowYNHMzJAUta34at_R9wQJ8OfL7NCp1X8Z9-bWgdQSV=w400-h225" group-title="GUIA",LINUXCLICKTV HD (Mantenimiento)
+https://cromstudioiptv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ajtech_21
+#EXTINF:-1 tvg-name="Linux Y Seguridad HD (Canal Caido)" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fb0aecf3-cfaa-442b-a74c-f352f5957318-profile_image-70x70.png" group-title="Hacking",Linux Y Seguridad HD (Canal Caido)
 https://cromstudioiptv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/linuxyseguridad
-#EXTINF:-1,S4vitar
+#EXTINF:-1 tvg-name="S4vitar HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjVkJEAC6JDACm_V8ajFgLfN0wSZRNB0bf7hZWIsTghraR3R0PeAtIuo6YNQTH9s1S7rinPuj4Q1qCAreTzE07gqwKkFruy0YLV9BiVsUMP1TE5OdtErOQ14tR727JWmkximYBYnGokdSyYItmamDXOiNhUQHhV0oliUDlu10i4EEx_N2w_NtK9hxF2=s900" group-title="Hacking",S4vitar HD
 https://cromstudioiptv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/s4vitaar
