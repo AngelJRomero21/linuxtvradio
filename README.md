@@ -1,6 +1,6 @@
 # Linux TV RADIO M3U8
 
-#ENGLISH
+# ENGLISH
 
 M3u8 Lists With channels, TV and Radio that transmit Linux, Free Software and Hacking.
 
@@ -17,7 +17,7 @@ The first thing you must enter the link that corresponds to you according to you
 Low Quality List: https://bit.ly/linuxclick_tv_low Normal List: https://bit.ly/linuxclick_tv
 
 
-#ESPAÑOL
+# ESPAÑOL
 
 Listas M3u8 Con canales, tv y Radio que transmiten Linux, Software libre y Hacking.
 
