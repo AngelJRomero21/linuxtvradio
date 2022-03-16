@@ -5,5 +5,5 @@ http://bit.ly/linuxclickfm
 https://cromstudioiptv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ajtech_21
 #EXTINF:-1,Linux Y Seguridad (Canal Caido)
 https://cromstudioiptv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/linuxyseguridad&quality=worst
-#EXTINF:-1,S4vitar
+#EXTINF:-1 tvg-name="S4vitaar" tvg-logo="https://i.imgur.com/HsSi3NV.png" group-title="Hacking",S4vitaar 
 https://cromstudioiptv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/s4vitaar&quality=360p
