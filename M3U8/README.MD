@@ -1,4 +1,4 @@
-------ESPAÑOL----------
+# ESPAÑOL
 
 Aca Puedes Conseguir 2 Listas m3u8.
 
@@ -18,7 +18,7 @@ El Archivo all.m3u8 Contiene Las Dos Listas
 
 
 
--------ENGLISH--------
+# ENGLISH
 
 Here you can get 2 m3u8 lists.
 
