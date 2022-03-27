@@ -3,7 +3,8 @@
 LinuxCLickTV, es una lista m3u8 para colocar en tu SmartTV, Computador, Celular o TV Box y Ver Canales Que Transmiten Linux, Software Libre, Hacking, CiberSeguridad, ETC.
 LOS CANALES QUE ESTAN EN ESTAS LISTAS ESTAN GRATUITAMENTE EN YOUTUBE, TWITCH Y OTRAS PAGINAS DE LA RED, Nosotros solo nos encargamos de recopilar y transformar la señal a M3U8.
 
-Si Quieres Apoyar y/o Contribuir puedes hacerlo creando tu propio repositorio, o Contribuyendo este repositorio Principal.
+Si Quieres sugerirnos algun canal pueds crear una **Cuestion**  **(Issues)**
+
 
 # ENGLISH
 
