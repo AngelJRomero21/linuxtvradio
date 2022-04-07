@@ -5,7 +5,8 @@ LOS CANALES QUE ESTAN EN ESTAS LISTAS ESTAN GRATUITAMENTE EN YOUTUBE, TWITCH Y O
 
 Si Quieres sugerirnos algun canal pueds crear una **Cuestion**  **(Issues)**
 
-
+Estamos Trabajando para no depender solo de **GITHUB** Estamos creando nuestros propios servidores.
+ 
 # ENGLISH
 
 M3u8 Lists With channels, TV and Radio that transmit Linux, Free Software and Hacking.
