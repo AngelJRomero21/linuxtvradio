@@ -6,6 +6,8 @@ LOS CANALES QUE ESTAN EN ESTAS LISTAS ESTAN GRATUITAMENTE EN YOUTUBE, TWITCH Y O
 Si Quieres sugerirnos algun canal pueds crear una **Cuestion**  **(Issues)**
 
 Estamos Trabajando para no depender solo de **GITHUB** Estamos creando nuestros propios servidores.
+ https://cromstudio.mooo.com/repo/linuxtvradio-main/M3U8/
+ 
  
 # ENGLISH
 
@@ -22,6 +24,9 @@ How to use the list?
 The first thing you must enter the link that corresponds to you according to your internet in your favorite player and you can enjoy the channels and stations.
 
 Low Quality List: https://bit.ly/linuxclick_tv_low Normal List: https://bit.ly/linuxclick_tv
+
+http://cromstudio.mooo.com/repo/linuxtvradio-main/M3U8/all.m3u8
+
 
 
 # ESPAÑOL
@@ -45,5 +50,8 @@ Lo primero debes introducir el enlace que te corresponde segun tu internet en tu
 
 
 Lista Baja Calidad: https://bit.ly/linuxclick_tv_low Lista Normal: https://bit.ly/linuxclick_tv 
+
+
+http://cromstudio.mooo.com/repo/linuxtvradio-main/M3U8/all.m3u8
 
 
