@@ -11,3 +11,5 @@ https://cromstudioiptv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.
 https://cromstudioiptv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA/live&quality=360p
 #EXTINF:-1 tvg-name="Cartoon Network  480p" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgxUlQHZzGdxptC4M3UiKIQ8uqzxGh153e4mKuHNajkK3hKxPSwNGyhQUsd1Pltsc2h-0LJVZGqZD2Q6NaIU416BdjaVN3ZeAU2OtJV1FXS0gNiiaWkTRDb5tDT98yaLmAIPYsbvxtPuNWvBowYNHMzJAUta34at_R9wQJ8OfL7NCp1X8Z9-bWgdQSV=w400-h225" group-title="GUIA",CARTOON NETWORK 480p
 https://cromstudioiptv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA/live&quality=480p
+#EXTINF:-1 tvg-name="ChillHop " tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgxUlQHZzGdxptC4M3UiKIQ8uqzxGh153e4mKuHNajkK3hKxPSwNGyhQUsd1Pltsc2h-0LJVZGqZD2Q6NaIU416BdjaVN3ZeAU2OtJV1FXS0gNiiaWkTRDb5tDT98yaLmAIPYsbvxtPuNWvBowYNHMzJAUta34at_R9wQJ8OfL7NCp1X8Z9-bWgdQSV=w400-h225" group-title="Musica",ChillHOP 480p
+https://cromstudioiptv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rwxrob&quality=480p
