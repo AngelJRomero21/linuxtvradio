@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<tv generator-info-name="XMLTV - JAG Ent!" generator-info-url="http://www.xmltv.org/">
   <channel id="pactovision">
         <display-name lang="es">PactoVisión</display-name>
         <icon src="https://yt3.ggpht.com/Dtaj40ibHADmB5TM2pOOKN0zlNvxF5oGfYpsYrx"/>
