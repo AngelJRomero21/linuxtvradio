@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="XMLTV - JAG Ent!" generator-info-url="http://www.xmltv.org/">
+
   <channel id="pactovision">
-	<display-name lang="es">PactoVisión</display-name>
-	<icon src="https://yt3.ggpht.com/Dtaj40ibHADmB5TM2pOOKN0zlNvxF5oGfYpsYrfJQ17WiluPaFUcLrICy1me5Rt-vzcdmBUDvrE=s900-c-k-c0x00ffffff-no-rj" />
-	<url>http://pactovision.com/</url>
+        <display-name lang="es">PactoVisión</display-name>
+        <icon src="https://yt3.ggpht.com/Dtaj40ibHADmB5TM2pOOKN0zlNvxF5oGfYpsYr>
+        <url>http://pactovision.com/</url>
   </channel>
 
-<programme start="20230101000001 -0400" stop="20230103003000 -0400" channel="pactovision">
-<title lang="es">Sin Informacion</title>
-<desc lang="es">En este momento PactoVision no tiene Programacion.</desc>
-<date>1994</date>
-<icon src="https://yt3.ggpht.com/Dtaj40ibHADmB5TM2pOOKN0zlNvxF5oGfYpsYrfJQ17WiluPaFUcLrICy1me5Rt-vzcdmBUDvrE=s900-c-k-c0x00ffffff-no-rj"/>
+<programme start="20230101000001 -0430" stop="20230103003000 -0430" channel="pa>
+<title lang="es">Adoracion Christine D'Clario</title>
+<desc lang="es">Christine D'Clario es una cantante y compositora estadounidense. Ha colaborado con Marco Barrientos, Marcos Brunet, Álex Zurdo, Funky, Daniel Calveti, Julio Melgar, Redimi2 y Miel San Marcos.</desc>
+<date>2022</date>
+<icon src="https://scontent.fbaq2-2.fna.fbcdn.net/v/t1.6435-1/193409737_343219847162793_2544466558299600754_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=c6021c&_nc_ohc=QHM3ZeP-tykAX-ayLTH&_nc_ht=scontent.fbaq2-2.fna&oh=00_AfBj-e4YqZ0wNkwDZd_g_PVsLRkVyXAKyeUgESyAwQp2IA&oe=63D88AAD">
 </programme>
+</tv>
