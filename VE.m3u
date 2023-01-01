@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://i2.paste.pics/82dcfd31aad429ffee4c8edc9afa7624.png", Nubeh TV * | VE
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="925" tvg-name="pactovision.ve" tvg-logo="https://yt3.ggpht.com/Dtaj40ibHADmB5TM2pOOKN0zlNvxF5oGfYpsYrfJQ17WiluPaFUcLrICy1me5Rt-vzcdmBUDvrE=s900-c-k-c0x00ffffff-no-rj", PactoVision
+https://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/pactovision
 #EXTINF:-1 tvg-id="925" tvg-name="MaracaiboFM" tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fw-D-0sOnWe3i-FoZF0QrdId6K7jbnKMmNc4Z4-YLL9s%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRcWFIZHJRZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUR3bHBfYzlnb01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9MjQweDI0MCZ1cGRhdGVkPTE2NjE2Nzc0NzUwMDA.webp&w=1080&q=75", Maracaibo 87.9FM
 https://stream-47.zeno.fm/f9xcxc5pcc9uv?zs=H-N-prc3TuKfxu7PSW6-jw
 #EXTINF:-1 tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png", Oxigeno Network * | VE
