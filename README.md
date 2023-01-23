@@ -26,7 +26,7 @@ The first thing you must enter the link that corresponds to you according to you
 
 Low Quality List: https://bit.ly/linuxclick_tv_low Normal List: https://bit.ly/linuxclick_tv
 
-
+List Varios:  https://bit.ly/3wozplO
 
 
 ## ESPAÑOL
@@ -52,3 +52,4 @@ Lo primero debes introducir el enlace que te corresponde segun tu internet en tu
 Lista Baja Calidad: https://bit.ly/linuxclick_tv_low Lista Normal: https://bit.ly/linuxclick_tv 
 
 
+Lista Varios: https://bit.ly/3wozplO
