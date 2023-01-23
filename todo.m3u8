@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,M3U8
+file:///opt/linuxtvradio/M3U8
+#EXTINF:0,M3U8-VARIOS
+file:///opt/linuxtvradio/M3U8-VARIOS
