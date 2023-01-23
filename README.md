@@ -1,12 +1,10 @@
 # Linux TV RADIO M3U8
 
 LinuxCLickTV, es una lista m3u8 para colocar en tu SmartTV, Computador, Celular o TV Box y Ver Canales Que Transmiten Linux, Software Libre, Hacking, CiberSeguridad, ETC.
+
 LOS CANALES QUE ESTAN EN ESTAS LISTAS ESTAN GRATUITAMENTE EN YOUTUBE, TWITCH Y OTRAS PAGINAS DE LA RED, Nosotros solo nos encargamos de recopilar y transformar la señal a M3U8.
 
 Si Quieres sugerirnos algun canal pueds crear una **Cuestion**  **(Issues)**
-
-Estamos Trabajando para no depender solo de **GITHUB** Estamos creando nuestros propios servidores.
- https://server.linux-click.ml/repo/linuxtvradio/M3U8/
  
  
 # ENGLISH
@@ -25,7 +23,6 @@ The first thing you must enter the link that corresponds to you according to you
 
 Low Quality List: https://bit.ly/linuxclick_tv_low Normal List: https://bit.ly/linuxclick_tv
 
-https://server.linux-click.ml/repo/linuxtvradio/M3U8/all.m3u8
 
 
 
@@ -50,8 +47,5 @@ Lo primero debes introducir el enlace que te corresponde segun tu internet en tu
 
 
 Lista Baja Calidad: https://bit.ly/linuxclick_tv_low Lista Normal: https://bit.ly/linuxclick_tv 
-
-
-https://server.linux-click.ml/repo/linuxtvradio/M3U8/all.m3u8
 
 
