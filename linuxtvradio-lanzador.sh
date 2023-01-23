@@ -17,7 +17,7 @@ Icon=
 Terminal=false
 Type=Application
 Encoding=UTF-8
-Version=1.1
+Version=1.2
 Categories=Application;Utility;System;
 " > /opt/linuxtvradio/linuxtvradio.desktop
 
